@@ -1,0 +1,10 @@
+Saber usar la terminal para navegar y organizar archivos es una habilidad fundamental para cualquier 
+desarrollador, ya que proporciona velocidad, control y eficiencia que la interfaz gráfica no puede 
+ofrecer. En proyectos reales y profesionales, el manejo de grandes volúmenes de carpetas y código se
+automatiza mediante scripts y comandos, haciendo inviable el uso constante del mouse. Además, 
+la terminal es el puente directo para interactuar con herramientas esenciales del flujo de trabajo
+diario como Git, servidores en la nube y entornos de desarrollo remoto. Dominar comandos básicos 
+como pwd, ls o cd permite estructurar el proyecto de forma ordenada, evitando pérdidas de información
+o errores de rutas en el despliegue del software. En conclusión, la terminal no es solo una pantalla negra con texto, 
+sino la herramienta principal que transforma a un programador en un profesional más ágil, independiente
+y capaz de administrar entornos técnicos complejos en cualquier sistema operativo.
