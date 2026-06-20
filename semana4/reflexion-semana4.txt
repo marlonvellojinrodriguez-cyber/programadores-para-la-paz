@@ -1,0 +1,12 @@
+Es fundamental que las comunidades e iniciativas ciudadanas puedan construir sus propias herramientas
+ tecnológicas utilizando tecnologías abiertas como Node.js porque esto les otorga soberanía digital
+e independencia técnica frente a las grandes corporaciones de software privativo. Al no depender 
+de licencias costosas ni de restricciones comerciales externas, los proyectos comunitarios pueden 
+crecer de forma sostenible y destinar sus recursos económicos a resolver problemas reales de su 
+entorno. Además, las tecnologías de código abierto cuentan con comunidades globales masivas que 
+comparten conocimiento, lo que facilita el aprendizaje y permite adaptar los sistemas de forma 
+flexible a las necesidades específicas de cada territorio o colectivo. Dominar el backend con 
+herramientas accesibles empodera a los líderes sociales para proteger la privacidad de los datos 
+de sus comunidades, garantizando que la información sensible no sea mercantilizada. En conclusión, 
+el software libre democratiza el acceso a la innovación, convirtiendo la tecnología en un bien 
+común que impulsa la transparencia, la autogestión y la transformación social desde las bases.
