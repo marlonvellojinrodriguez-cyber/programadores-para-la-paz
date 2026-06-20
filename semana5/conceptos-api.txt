@@ -1,0 +1,5 @@
+Funcionamiento de la ruta POST /reporte:
+Esta ruta utiliza el método HTTP POST para recibir datos estructurados en formato JSON enviados ocultamente en el cuerpo de la petición (req.body). El servidor extrae la propiedad 'mensaje', la procesa y devuelve una respuesta de confirmación en formato JSON indicando que el estado es 'Reporte recibido' junto con el texto original enviado.
+
+Utilidad en una aplicación comunitaria:
+En una iniciativa comunitaria, este endpoint es fundamental porque actúa como la puerta de entrada para recolectar información en tiempo real desde el territorio. Podría servir para que los ciudadanos envíen reportes sobre fallas en los servicios públicos, alertas tempranas de seguridad vecinal, solicitudes de mantenimiento de vías comunitarias o censos locales, permitiendo almacenar y organizar las necesidades de la población de manera automatizada.

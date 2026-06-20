@@ -1,0 +1,12 @@
+Las APIs representan una herramienta tecnológica revolucionaria para la gestión comunitaria porque 
+actúan como puentes estandarizados que facilitan el intercambio de información de manera automática,
+transparente y estructurada. Al implementar una API propia, un colectivo ciudadano puede centralizar
+datos provenientes de múltiples canales, como formularios web, aplicaciones móviles o sensores locales, 
+unificando reportes de incidentes, mapas de riesgo o alertas viales bajo un mismo formato técnico.
+Esta organización previene el caos informativo de las redes sociales tradicionales y acelera los
+tiempos de respuesta comunitaria e institucional ante emergencias locales. Asimismo, las APIs 
+facilitan la interoperabilidad, permitiendo que la información recopilada por los vecinos sea
+compartida de forma segura con entidades públicas u organizaciones aliadas para robustecer 
+los planes de acción. En conclusión, el uso de endpoints estructurados democratiza el acceso
+a la información territorial, empodera la toma de decisiones basada en datos reales y fortalece
+sustancialmente la convivencia pacífica a través de la autogestión tecnológica eficiente.

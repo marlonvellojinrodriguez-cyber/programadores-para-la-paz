@@ -1,0 +1,10 @@
+Pruebas de rutas en el servidor Express (Método GET):
+
+1. Dirección: http://localhost:3000
+   Descripción: El servidor responde con el texto plano 'Servidor activo'. Es la ruta raíz del backend y confirma que el servidor está encendido y escuchando peticiones de manera correcta.
+
+2. Dirección: http://localhost:3000/saludo
+   Descripción: El servidor responde con el texto 'Hola comunidad'. Es una subruta estática diseñada para enviar un mensaje directo a cualquier cliente que acceda a ese endpoint.
+
+3. Dirección: http://localhost:3000/mensaje/juan
+   Descripción: El servidor extrae el parámetro dinámico ':nombre' de la URL (en este caso, 'juan') y responde de forma personalizada con el texto 'Hola juan'. Si se cambia el nombre en la URL, la respuesta cambia dinámicamente.
