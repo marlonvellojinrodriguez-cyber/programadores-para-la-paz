@@ -1,0 +1,10 @@
+El uso responsable de la información en internet y la participación ciudadana están estrechamente 
+vinculados, ya que una sociedad digital informada y crítica es la base para tomar decisiones 
+democráticas acertadas y evitar la manipulación masiva. Cuando compartimos datos verificados, 
+fortalecemos el debate público y protegemos a la comunidad de los riesgos de la desinformación. 
+Por otro lado, la organización del trabajo técnico mediante herramientas como Git introduce 
+disciplina y estructura a este proceso. Git nos enseña que, al igual que en la ciudadanía, 
+cada acción en un entorno colaborativo deja una huella (commit) y requiere revisión antes de integrarse (merge).
+ Así, mientras la ética digital asegura la calidad de lo que comunicamos, el control de versiones con Git garantiza el orden, 
+ la transparencia y la trazabilidad del trabajo técnico. Ambos conceptos promueven la responsabilidad 
+ individual en beneficio de un espacio colectivo seguro y eficiente.
