@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Seguridad Vial",
+  "descripcion": "Los vecinos solicitan la instalación de un reductor de velocidad en la calle principal debido al alto flujo de vehículos a gran velocidad cerca de la escuela."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Espacio Público",
+  "descripcion": "Se reporta la ocupación indebida de la zona verde comunitaria con escombros de construcción, impidiendo el uso del parque para los niños."
+}

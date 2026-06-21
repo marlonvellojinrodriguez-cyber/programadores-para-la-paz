@@ -1,0 +1,17 @@
+Resultados de la prueba en la API de Reportes Comunitarios:
+
+1. Al realizar inicialmente una petición HTTP GET a http://localhost:3000/reportes, el servidor responde con un estado 200 OK y un array vacío '[]', puesto que la variable global en memoria aún no contiene registros.
+
+2. Al enviar una petición POST a la misma ruta con el JSON de prueba ('Infraestructura'), el servidor procesa el objeto, le asigna de manera dinámica el 'id: 1', lo añade al array con el método '.push()' y retorna el objeto de confirmación.
+
+3. Al consultar nuevamente la ruta mediante el método GET, el servidor ya no devuelve un array vacío, sino la lista actualizada con los objetos almacenados dinámicamente en memoria:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Nota: Como los datos residen en la memoria RAM del proceso de Node.js, si el servidor se reinicia, la lista vuelve a su estado inicial vacío.
