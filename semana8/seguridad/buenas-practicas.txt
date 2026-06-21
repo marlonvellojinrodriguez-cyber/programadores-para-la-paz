@@ -1,0 +1,3 @@
+1. Cifrado de credenciales de acceso: Utilizar variables de entorno (.env) para resguardar tokens, llaves de API y contraseñas de bases de datos, evitando subirlas en texto plano a repositorios públicos de GitHub.
+2. Gestión estricta de parches: Aplicar actualizaciones periódicas de seguridad en el sistema operativo del servidor y las dependencias de Node.js para mitigar vulnerabilidades conocidas.
+3. Desactivación de accesos innecesarios: Clausurar puertos lógicos del servidor que no se estén utilizando y restringir el acceso remoto SSH únicamente mediante llaves criptográficas seguras, inhabilitando el ingreso por contraseña común.

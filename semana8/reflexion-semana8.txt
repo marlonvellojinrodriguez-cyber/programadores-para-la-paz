@@ -1,0 +1,12 @@
+La seguridad digital no constituye un módulo opcional en el desarrollo de software social, 
+sino el pilar ético que garantiza la sostenibilidad de los procesos participativos en el territorio.
+Cuando una comunidad decide utilizar una plataforma tecnológica para denunciar fallas en la 
+infraestructura, alertar sobre problemas ambientales o ejercer veeduría ciudadana, está depositando
+u confianza y su integridad en dicha infraestructura digital. Si los datos personales o las 
+ubicaciones exactas de los denunciantes se filtraran por negligencia técnica, los ciudadanos
+quedarían expuestos a represalias físicas, señalamientos o dinámicas de exclusión en sus propios
+barrios. Por lo tanto, blindar el backend mediante autenticación robusta y proteger la privacidad
+de la información mitiga los riesgos en el mundo real y estimula una participación masiva,
+libre y transparente. En conclusión, una plataforma comunitaria que no prioriza la seguridad 
+digital destruye el tejido social; por el contrario, un sistema seguro empodera a los ciudadanos, otorga validez institucional a sus reportes y transforma la tecnología en un 
+espacio confiable de transformación colectiva.

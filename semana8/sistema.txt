@@ -1,0 +1,12 @@
+Análisis de Comandos de Diagnóstico de Sistema en Linux:
+
+1. Comando 'uname -a':
+   - Qué muestra: Expone toda la información disponible del núcleo (kernel) del sistema operativo, incluyendo el nombre del sistema operativo, el nombre del host en la red, la versión exacta del kernel, la arquitectura del hardware (por ejemplo, x86_64 o arm) y la fecha de compilación.
+2. Comando 'whoami':
+   - Qué muestra: Devuelve de manera exacta el nombre del usuario con la sesión activa actual en la terminal que está ejecutando el proceso.
+
+¿Por qué es útil conocer esta información al administrar un servidor?
+Conocer las especificaciones del sistema operativo y los privilegios actuales es crítico por tres razones fundamentales:
+a) Compatibilidad y Despliegue: Al instalar dependencias de software o binarios de bases de datos, es indispensable validar la arquitectura del kernel (uname -a) para descargar la versión correcta y evitar fallos lógicos en producción.
+b) Gestión de Privilegios: El comando 'whoami' permite al administrador auditar si está operando bajo una cuenta con permisos limitados o si posee accesos de superusuario (root), previniendo la ejecución accidental de comandos destructivos en el servidor.
+c) Seguridad y Auditoría: Permite mapear si el kernel actual sufre de vulnerabilidades conocidas que requieran parches urgentes de infraestructura.

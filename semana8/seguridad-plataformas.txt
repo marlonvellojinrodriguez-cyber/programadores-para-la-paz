@@ -1,0 +1,7 @@
+5 Prácticas de Seguridad Avanzadas para Plataformas Digitales Comunitarias:
+
+1. Anonimización Dinámica del Frontend: Configurar el sistema para que oculte de manera automática los datos de contacto y la identificación exacta del ciudadano que emite un reporte comunitario, exponiendo al público únicamente la naturaleza técnica del problema.
+2. Autenticación con Doble Factor (2FA): Implementar validación en dos pasos para las cuentas con roles administrativos y de veeduría comunitaria, impidiendo accesos fraudulentos incluso si se filtran las contraseñas base.
+3. Cifrado en Tránsito y Reposo: Obligar el uso de certificados SSL/TLS (HTTPS) para que todos los datos viajen protegidos desde el celular del ciudadano hacia el servidor, cifrando además los archivos de base de datos locales.
+4. Implementación de Logs de Auditoría Inmutables: Registrar un historial protegido en el backend donde quede constancia exacta de qué rol modificó, eliminó o aprobó una incidencia comunitaria, impidiendo la manipulación interna de la información.
+5. Control de Acceso Basado en Roles Estrictos (RBAC): Aplicar el principio del menor privilegio posible, garantizando que un usuario común solo pueda interactuar con formularios de reporte y que las funciones de administración de la base de datos queden estrictamente aisladas.
