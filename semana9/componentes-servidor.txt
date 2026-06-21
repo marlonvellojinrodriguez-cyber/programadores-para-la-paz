@@ -1,0 +1,16 @@
+Descripción Funcional de Componentes del Servidor:
+
+1. Sistema operativo:
+Es la capa de infraestructura base (como Linux/Debian) que administra directamente el hardware del servidor, gestiona la asignación de memoria RAM, el procesamiento de la CPU y provee el entorno de bajo nivel para que corran los servicios.
+
+2. Node.js:
+Es el entorno de ejecución para JavaScript en el lado del servidor estructurado sobre el motor V8, encargado de procesar solicitudes de manera asíncrona y no bloqueante mediante un bucle de eventos (Event Loop).
+
+3. Aplicación server.js:
+Representa el código lógico y el software que nosotros programamos. Utiliza Express para definir los endpoints de la API, las reglas del negocio, el procesamiento de datos y la estructuración de respuestas que requiere el frontend.
+
+4. Puerto:
+Es una interfaz lógica específica (como el puerto 3000) dentro de la dirección de red del servidor que actúa como canal de comunicación, permitiendo direccionar el tráfico entrante de internet directamente hacia nuestra aplicación.
+
+5. Logs:
+Son archivos de texto plano que funcionan como la caja negra de la aplicación, registrando de forma cronológica eventos, solicitudes entrantes, advertencias y excepciones del sistema, indispensables para el diagnóstico y mantenimiento.

@@ -1,0 +1,12 @@
+La estabilidad y seguridad operativa de un servidor web es el factor crítico que transforma una buena
+ iniciativa digital en una herramienta de impacto social verdaderamente confiable para el territorio.
+  Cuando los colectivos de una comunidad utilizan un sistema digital para gestionar incidencias,
+reportar necesidades de infraestructura o interactuar con procesos ciudadanos, esperan una plataforma
+ disponible en el momento en que la necesitan. Si el servidor sufre caídas constantes por falta de 
+ gestión de procesos o errores de memoria, la comunidad pierde el entusiasmo técnico y abandona la
+herramienta, rompiendo la continuidad del proceso participativo. Por otra parte, blindar el 
+entorno del servidor impide que actores malintencionados comprometan la base de datos o utilicen
+la infraestructura para ataques cibernéticos. Garantizar un servidor estable y monitorizado 
+mediante logs es una muestra de respeto hacia la información colectiva, blindando la 
+integridad del proceso y cimentando una confianza sólida y duradera de los usuarios 
+en la tecnología comunitaria.
