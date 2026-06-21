@@ -1,0 +1,12 @@
+La recepción de información ciudadana en formatos estructurados como JSON es un pilar fundamental 
+para la modernización de los procesos de veeduría y control social. Cuando las plataformas 
+tecnológicas exigen datos organizados bajo parámetros claros, se elimina por completo la ambigüedad
+y el desorden característico de las quejas informales recolectadas en redes sociales convencionales.
+Esta estandarización permite que los sistemas informáticos automaticen la clasificación de las 
+problemáticas territoriales, priorizando las alertas de acuerdo con su tipología, urgencia o 
+ubicación geográfica sin necesidad de intervención manual constante. Asimismo, la información 
+estructurada facilita la interoperabilidad entre diferentes dependencias o entes de control, 
+garantizando que la evidencia técnica llegue intacta y lista para ser auditada. Al final, 
+contar con bases de datos sólidas y homogéneas disipa la desinformación en el territorio,
+fortalece la rendición de cuentas institucional y dota a la comunidad de argumentos estadísticos
+incuestionables para defender sus derechos colectivos.

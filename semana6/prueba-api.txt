@@ -1,0 +1,13 @@
+Resultados de la prueba en la ruta POST /registro:
+
+Al enviar una petición HTTP de tipo POST a la dirección http://localhost:3000/registro utilizando un cliente de pruebas (como Thunder Client o Postman), el servidor intercepta el cuerpo de la solicitud procesado por el middleware express.json(). 
+
+Al proveer el objeto JSON de prueba con el nombre 'Maria' y el mensaje 'Hola comunidad', el servidor extrae con éxito las propiedades mediante 'req.body' y responde de manera inmediata con un estado HTTP 200 y el siguiente objeto estructurado en formato JSON:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esto demuestra que el backend es capaz de lee, decodificar y reflejar datos de manera dinámica y segura.
