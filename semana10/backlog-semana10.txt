@@ -1,0 +1,6 @@
+Historias de usuario:
+
+1. Como líder comunitario quiero reportar el estado de una vía o puente dañado para alertar sobre riesgos de movilidad.
+2. Como analista técnico quiero recibir una notificación de alerta en canales operativos para evaluar la gravedad del daño reportado.
+3. Como veedor ciudadano quiero generar un reporte en PDF con el consolidado mensual de daños para presentarlo ante las autoridades municipales.
+4. Como usuario de la plataforma quiero filtrar las alertas por estado (pendiente, en revisión, solucionado) para conocer el avance de la gestión.

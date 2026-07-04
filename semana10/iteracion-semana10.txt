@@ -1,0 +1,11 @@
+Tareas prioritarias para la primera iteración:
+1. Módulo de reporte del estado de vías públicas por el líder comunitario.
+2. Sistema de filtrado y visualización de alertas por estado de gestión.
+
+Justificación:
+Elijo estas dos tareas porque representan el núcleo de la transparencia y la utilidad inicial del sistema. Sin el reporte de vías no hay datos iniciales que procesar, y sin un filtro visual de estados la comunidad no sabría si sus solicitudes están siendo atendidas o ignoradas, lo que afectaría el propósito participativo del proyecto desde el inicio.
+
+Definición de Terminado (Definition of Done):
+1. El script ejecuta los filtros y registros de datos en el entorno local sin arrojar errores de consola.
+2. El diseño de la funcionalidad cumple con los criterios de accesibilidad técnica definidos por el equipo.
+3. Los cambios están guardados de forma estructurada en la rama principal del repositorio de Git.

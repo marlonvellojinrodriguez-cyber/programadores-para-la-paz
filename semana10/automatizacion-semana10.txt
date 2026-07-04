@@ -1,0 +1,11 @@
+Evento detonador:
+Un veedor actualiza el estado de una solicitud de "en revisión" a "solucionado" en la base de datos central.
+
+Acción del flujo en n8n:
+El nodo de monitoreo de base de datos detecta el cambio de estado y dispara una acción a través de la API de Telegram para notificar al canal informativo de la comunidad.
+
+Mensaje enviado a Telegram:
+"Actualización de Veeduría: La alerta sobre el tramo vial comunitario ha sido marcada como SOLUCIONADA por el equipo técnico. Gracias por la participación."
+
+Información restringida por seguridad:
+Bajo ninguna circunstancia se enviarán datos como: nombres o apellidos de los denunciantes originarios, ubicaciones de domicilios privados, placas de vehículos específicos, registros fotográficos con rostros sin difuminar, ni tokens de acceso al backend.

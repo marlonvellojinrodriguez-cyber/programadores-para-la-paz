@@ -1,0 +1,13 @@
+El uso de marcos de trabajo ágiles dentro de la organización comunitaria transforma la participación 
+ciudadana en un proceso estructurado, medible y altamente eficiente. Al gestionar las solicitudes
+ territoriales mediante un backlog, los comités de veeduría abandonan la improvisación y logran 
+ priorizar de manera democrática las urgencias reales que afectan a la población, entregando 
+ soluciones funcionales en ciclos cortos de tiempo. Por su parte, la automatización responsable 
+ mediante plataformas de integración como n8n descentraliza el flujo de información y reduce 
+ drásticamente el desgaste de los líderes sociales, quienes ya no deben redactar avisos manuales 
+ para mantener informada a la base ciudadana. Canales de mensajería masiva como Telegram actúan 
+ como el puente definitivo de transparencia, permitiendo que las alertas de control social lleguen 
+ en tiempo real a cualquier teléfono móvil sin importar las limitaciones de infraestructura. Esta 
+ sinergia técnica no solo optimiza la trazabilidad y la calidad de la supervisión comunitaria, 
+ sino que blinda los procesos contra la opacidad institucional, fortaleciendo la gobernanza digital
+  y devolviéndole a la comunidad la confianza en su propia capacidad de articulación y cambio.
