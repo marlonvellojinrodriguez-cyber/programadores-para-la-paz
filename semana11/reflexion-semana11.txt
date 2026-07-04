@@ -1,0 +1,12 @@
+Una plataforma tecnológica enfocada en la participación ciudadana y la veeduría comunitaria requiere 
+de una arquitectura sólida compuesta por bases de datos, autenticación robusta y estrictas políticas 
+de protección de la información. La base de datos es el pilar que garantiza la trazabilidad y
+permanencia de los datos en el tiempo, transformando denuncias o reportes aislados en un 
+histórico estructurado y auditable por la sociedad. Por su parte, la autenticación de usuarios 
+actúa como un escudo que otorga legitimidad al sistema, impidiendo la inyección masiva de datos 
+falsos o ataques automatizados que busquen desprestigiar el control social. Finalmente, 
+la protección rigurosa de los datos sensibles blinda a los líderes comunitarios contra posibles 
+represalias y persecuciones en el territorio, asegurando que el ejercicio democrático de la 
+veeduría sea un entorno seguro. Implementar este ecosistema técnico no se limita a cumplir con 
+buenas prácticas de desarrollo de software, sino que constituye el fundamento ético para construir
+confianza digital y garantizar la sostenibilidad de la gobernanza comunitaria en entornos web.

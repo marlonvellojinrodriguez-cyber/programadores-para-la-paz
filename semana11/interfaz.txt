@@ -1,0 +1,10 @@
+La interfaz de usuario del sistema dispondrá de un módulo administrativo con un formulario 
+restringido para dar de alta nuevas sedes de comedores, solicitando el nombre de la sede, 
+el sector del barrio y la capacidad estimada de atención. En la pantalla pública principal, 
+los ciudadanos encontrarán un panel con la lista de comedores disponibles organizados por
+zonas geográficas. Cada tarjeta de comedor incorporará un botón interactivo rotulado como 
+"Registrar Entrega de Alimentos" y un contador dinámico que reflejará la cantidad total de 
+kilos de insumos que han sido asignados a esa sede específica durante el mes en curso.
+Este diseño visual prioriza la usabilidad y la claridad del control social, omitiendo 
+por completo listados de nombres de beneficiarios o datos que comprometan la seguridad 
+de la comunidad.

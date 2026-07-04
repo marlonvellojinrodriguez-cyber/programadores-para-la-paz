@@ -1,0 +1,23 @@
+Entidad: ComedorComunitario
+
+Campos principales:
+- id (Clave primaria, Autoincremental)
+- nombre_sede (Texto)
+- sector_barrio (Texto)
+- capacidad_diaria (Entero)
+- fecha_registro (Timestamp)
+
+Propósito:
+Registrar y geolocalizar los centros de abastecimiento y comedores autorizados en el territorio para mapear la cobertura de asistencia alimentaria.
+
+Entidad: DonacionAlimentos
+
+Campos principales:
+- id (Clave primaria, Autoincremental)
+- comedor_id (Clave foránea relacionada con ComedorComunitario)
+- tipo_alimento (Texto)
+- cantidad_kilos (Decimal)
+- estado_entrega (Texto: Pendiente / Recibido)
+
+Propósito:
+Monitorear las asignaciones de insumos y recursos alimenticios que ingresan a cada sede, garantizando el control físico de las entregas sin exponer datos personales.

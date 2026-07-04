@@ -1,0 +1,10 @@
+El proceso de inicio de sesión o login funciona como el primer filtro de seguridad perimetral de la 
+aplicación, encargándose de validar la identidad de un operador comunitario antes de concederle 
+privilegios de escritura en el sistema. Es crucial proteger rutas específicas, como las de 
+actualización de inventarios o edición de sedes, para evitar que actores externos malintencionados 
+alteren los registros públicos o saboteen la trazabilidad del proyecto. En consonancia con esto, 
+el sistema bajo ninguna circunstancia debe exponer públicamente hashes de contraseñas, direcciones 
+de correo electrónico corporativas, números de teléfono de los coordinadores, registros de auditoría
+interna ni credenciales expuestas en archivos de configuración. El control de accesos basado en 
+roles garantiza que la plataforma mantenga su integridad operativa y proteja la infraestructura 
+técnica frente a manipulaciones no autorizadas.
