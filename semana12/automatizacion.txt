@@ -1,0 +1,5 @@
+DISEÑO DE AUTOMATIZACIÓN (n8n / Telegram)
+
+1. Evento Disparador (Webhook/Trigger): Nueva firma o apoyo registrado en la base de datos de una causa específica.
+2. Mensaje Enviado (Notificación en Telegram): "¡Nuevo apoyo registrado! La causa '[Título_Causa]' acaba de recibir un respaldo de la comunidad. Total de apoyos actuales: [Cantidad_Apoyos]."
+3. Información Protegida (No enviar por seguridad): Por políticas estrictas de privacidad y minimización de datos, no se deben incluir cédulas, nombres completos, números de teléfono, direcciones físicas ni opiniones o comentarios sensibles de los ciudadanos en los canales públicos de mensajería.

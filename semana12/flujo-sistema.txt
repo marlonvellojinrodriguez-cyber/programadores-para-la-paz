@@ -1,0 +1,7 @@
+FLUJO DEL SISTEMA: Petición en 3 clics
+
+1. Registro de la Causa: Un líder comunitario o ciudadano ingresa a la plataforma y crea una causa colectiva (por ejemplo, mantenimiento de un comedor o reparación de una vía), completando título y descripción.
+2. Almacenamiento y Visibilidad: La causa se guarda de manera permanente en la base de datos y se despliega automáticamente en el dashboard público de la aplicación para conocimiento de toda la comunidad.
+3. Recolección de Apoyos (Firmas): Los ciudadanos interesados ingresan a la causa y, con un solo clic, registran su apoyo digital ingresando únicamente los datos básicos parametrizados.
+4. Conteo y Validación: El backend del sistema procesa las solicitudes en tiempo real, actualizando el contador de apoyos vinculados al ID de esa causa específica.
+5. Generación del Documento Formal (PDF): Al alcanzar el umbral de apoyos, el sistema compila la información y genera automáticamente un documento PDF formalizado con el derecho de petición listo para ser descargado y radicado ante las autoridades.

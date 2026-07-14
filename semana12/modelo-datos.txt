@@ -1,0 +1,15 @@
+MODELO DE DATOS - PETICIÓN EN 3 CLICS
+
+ENTIDAD 1: Causa
+- id (INT, Clave Primaria, Autoincremental) -> Identificador único de la causa en el sistema.
+- titulo (VARCHAR) -> Nombre descriptivo de la problemática o solicitud comunitaria.
+- descripcion (TEXT) -> Detalle y justificación de la petición ciudadana.
+- fecha (TIMESTAMP) -> Registro exacto de cuándo se creó la iniciativa.
+Propósito: Sirve para estructurar, almacenar y renderizar en el frontend las diferentes iniciativas y problemáticas que la comunidad desea movilizar.
+
+ENTIDAD 2: Apoyo
+- id (INT, Clave Primaria, Autoincremental) -> Identificador único de la firma o respaldo.
+- causa_id (INT, Clave Foránea) -> Vinculación directa con el ID de la tabla Causa para saber qué iniciativa se está respaldando.
+- nombre (VARCHAR) -> Nombre o identificador básico del ciudadano que apoya.
+- fecha (TIMESTAMP) -> Registro del momento exacto en el que se efectuó el apoyo.
+Propósito: Permite llevar la trazabilidad, métricas y el conteo relacional de los respaldos digitales que validan y dan peso formal al documento final.

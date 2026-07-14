@@ -1,0 +1,22 @@
+REFLEXIÓN FINAL DEL CURSO
+
+A lo largo de este diplomado, aprendí que la tecnología no es 
+solo un conjunto de herramientas técnicas, sino un puente de 
+transformación social capaz de descentralizar la información 
+y potenciar los procesos organizativos de un territorio. 
+Comprender cómo estructurar un backend en Node.js, diseñar 
+flujos de datos transparentes y automatizar notificaciones me 
+demostró que el software puede democratizar el control social y
+la veeduría ciudadana. Lograr que procesos tradicionalmente 
+burocráticos y manuales se sinteticen en sistemas robustos 
+como una 'Petición en 3 Clics' reduce la brecha de acceso
+a la participación y dota a las comunidades de evidencias 
+técnicas incontestables para interactuar con las autoridades. 
+Asimismo, asimilé la inmensa responsabilidad ética que conlleva
+administrar plataformas comunitarias, donde la trazabilidad del 
+software debe balancearse rigurosamente con la minimización de datos y 
+el blindaje absoluto de la privacidad de los líderes comunitarios. 
+En conclusión, este curso transformó mi perspectiva como analista, 
+dotándome de herramientas reales para diseñar soluciones digitales 
+seguras, eficientes y con un profundo sentido de impacto social en 
+mi entorno.
